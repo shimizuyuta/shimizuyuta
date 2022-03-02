@@ -1,4 +1,4 @@
-#I'm Yuta Shimizu 👋
+# I'm Yuta Shimizu 👋
 
 <!--
 **shimizuyuta/shimizuyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
 </p>
   
-##⚡ Status: 
+## ⚡ Status: 
 <!-- リポジトリステータス -->
-<p>
+
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=shimizuyuta&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/shimizuyuta/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta&layout=compact&theme=tokyonight)](https://github.com/shimizuyuta/)
-</p>
+
