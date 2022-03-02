@@ -1,4 +1,4 @@
-### Hi there 👋
+### 好きな言語はJavaScriptです 👋
 
 <!--
 **shimizuyuta/shimizuyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimizuyuta&show_icons=true&theme=aura_dark)
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=shimizuyuta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/shimizuyuta/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta&layout=compact&theme=tokyonight)](https://github.com/shimizuyuta/)
-
-
