@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimizuyuta)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shimizuyuta)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=shimizuyuta&repo=homebridge-switchbot-for-mac)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta&layout=compact)
