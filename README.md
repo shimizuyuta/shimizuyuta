@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </p>
   
 ## ⚡ Status: 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=shimizuyuta&count_private=true&show_icons=true&theme=aura_dark" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="300" src="https://github-readme-stats.vercel.app/api?username=shimizuyuta&count_private=true&show_icons=true&theme=aura_dark" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta&count_private=true&theme=aura_dark&layout=compact" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimizuyuta&count_private=true&theme=aura_dark&layout=compact" />
+</p>
