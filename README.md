@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m University student which learning social welfare   
-🌱 I’m currently learning JavaScript,TypeScript,Python,Java,Docker,AWS  
+##### 🔭 I’m University student which learning social welfare   
+##### 🌱 I’m currently learning JavaScript,TypeScript,Python,Java,Docker,AWS  
 
 <p>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
   
 ## ⚡ Status: 
 <!-- リポジトリステータス -->
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={shimizuyuta}&layout=compact&langs_count=20&show_icons=true&theme=aura_dark" />
-  
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={shimizuyuta}&theme=aura_dark&show_icons=ture" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimizuyuta&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimizuyuta&repo=convoychat" />
+</a>
