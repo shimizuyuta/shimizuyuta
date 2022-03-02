@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 ## ⚡ Status: 
 <!-- リポジトリステータス -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shimizuyuta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimizuyuta&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
