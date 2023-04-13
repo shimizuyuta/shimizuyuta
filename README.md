@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-##### 🔭 I’m University student which learning social welfare   
+
 ##### 🌱 I’m currently learning JavaScript,TypeScript,Python,Java,Docker,AWS  
 
 <p>
